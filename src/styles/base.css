@@ -1,0 +1,15 @@
+body, html, input, ul, ol {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    box-sizing: content-box;
+}
+
+input {
+    font-size: 13px;
+    color: #748399;
+}
+
+ul, ol {
+    list-style: none;
+}
